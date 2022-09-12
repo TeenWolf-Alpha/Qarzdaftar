@@ -13,6 +13,7 @@ public class MainActivity2 extends AppCompatActivity {
     ActivityMain2Binding binding;
     String birnarsa="ikkinarsa";
     String birnarsa2="ikkinarфываыавsa";
+    String birnarsa3="toza narsa";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
